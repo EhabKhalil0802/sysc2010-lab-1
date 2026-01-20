@@ -1,0 +1,1 @@
+The dataset was loaded using Pandas and checked by looking at the first few rows, column names, and data types. There were no missing values in the data. Temperature and humidity were then plotted against time to visually check for trends and any obvious issues.
